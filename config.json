@@ -1,0 +1,14 @@
+{
+	"owner": {
+		"name": "Greegmon",
+		"age": 16,
+		"fb": "https://www.facebook.com/greegmon.1"
+	},
+	"bot": {
+		"name": "GeegaBOT",
+		"prefix": "/"
+	},
+	"admins": [
+		"615585070574850"
+	]
+}
